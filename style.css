@@ -1,0 +1,26 @@
+body{
+    background-color:white;
+}
+h1{
+    font-family: sans-serif;
+    position: relative;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.set{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.h2{
+    text-align: center;
+}
